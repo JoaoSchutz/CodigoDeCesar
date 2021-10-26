@@ -1,5 +1,5 @@
 
-Programa que codifica e descodifica texto, baseado na técnica de criptografia de Júlio César, antigo imperador romano.
+Programa que codifica e descodifica texto. Baseado na técnica de criptografia de Júlio César, antigo imperador romano.
 
 Instruções:
 
