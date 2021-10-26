@@ -8,4 +8,4 @@ codificada correspondente vai estar).
 - Em seguida, uma caixa "Texto a ser codificado:" aparecerá e você inserirá o texto.
 - Finalmente, mostra o texto codificado.
 
-O texto codificado pode ser usado no descodificador, utilizando a mesma chave e inserindo o texto codificado.
+O texto codificado pode ser usado no decodificador, utilizando a mesma chave e inserindo o texto codificado.
